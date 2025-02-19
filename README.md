@@ -14,7 +14,7 @@ I am currently pursuing my PhD at the **University of Galway**, specializing in 
 
 ### 🚀 Current Projects
 - 🧬 **[COBRA Toolbox](https://github.com/opencobra/cobratoolbox)** – A comprehensive framework for constraint-based modeling.
-- 🏥 **[Recon4IMD](https://github.com/your-repo-link-here)** – A genome-scale metabolic model for inborn metabolic diseases.
+- 🏥 **[Recon4IMD](https://www.recon4imd.org/)** – A genome-scale metabolic model for inborn metabolic diseases.
 
 
 ### 📊 GitHub Stats
