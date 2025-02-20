@@ -1,8 +1,8 @@
+<h2 align="center">👋 Hey, I'm Farid!</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="700">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="600">
 </p>
 
-<h2 align="center">👋 Hey, I'm Farid!</h2>
 <h3 align="center">PhD Student | Computational & Systems Biology</h3>
 
 <p align="center">
@@ -32,8 +32,6 @@ I am a PhD researcher at the <strong>University of Galway</strong>, specializing
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid-zare&show_icons=true&theme=tokyonight&layout=compact" width="36.5%" alt="Top Languages">
 </p>
 
----
-![Snake animation](https://github.com/farid-zare/farid-zare/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center"><em>"Modeling biology, one constraint at a time."</em></p>
