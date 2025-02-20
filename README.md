@@ -28,8 +28,8 @@ I am a PhD researcher at the <strong>University of Galway</strong>, specializing
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farid-zare&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid-zare&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=farid-zare&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid-zare&show_icons=true&theme=tokyonight&layout=compact" width="36.5%" alt="Top Languages">
 </p>
 
 ---
