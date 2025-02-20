@@ -33,5 +33,7 @@ I am a PhD researcher at the <strong>University of Galway</strong>, specializing
 </p>
 
 ---
+![Snake animation](https://github.com/farid-zare/farid-zare/blob/output/github-contribution-grid-snake.svg)
+---
 
 <p align="center"><em>"Modeling biology, one constraint at a time."</em></p>
