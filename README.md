@@ -16,6 +16,7 @@ I am pursuing my PhD at the **University of Galway**, specializing in **computat
 ### 🚀 Current Projects
 - 🧬 **[COBRA Toolbox](https://github.com/opencobra/cobratoolbox)** – A comprehensive framework for constraint-based modeling.
 - 🏥 **[Recon4IMD](https://www.recon4imd.org/)** – A genome-scale metabolic model for inborn metabolic diseases.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farid-zare&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farid-zare&show_icons=true&theme=tokyonight&layout=compact)
 ---
 _"Modeling biology, one constraint at a time."_
